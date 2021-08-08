@@ -116,19 +116,22 @@ ul + button:hover {
   font-size: 1.2rem;
 }
 
+
 /* services section  */
 
 .services-section {
   margin: 40px 0px;
 }
 
+.services-section h1{
+  margin-top:110px;
+}
+
 #services {
   display: flex;
   margin: 23px 34px;
 }
-#services {
-  margin-top:110px;
-}
+
 #services .box {
   border: 2px solid rgb(3, 3, 3);
   /* border: 2px solid rgb(3, 3, 3); */
